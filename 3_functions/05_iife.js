@@ -6,7 +6,7 @@
 (function chai() {
     console.log(`DB Connected`)
 })();//named iife
-// (function defination)(excecution call)
+// (function defination)(excecution call);
 
 
 ( (name)=>{
