@@ -10,8 +10,9 @@ console.log(myArray);
 console.log(myArray.includes(2))
 console.log(myArray.indexOf(2))
 
-const newArr=myArray.join()
+const newArr=myArray.join('-')
 console.log(myArray)
+console.log(newArr)
 console.log(typeof(newArr))
 
 
